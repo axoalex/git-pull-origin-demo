@@ -12,3 +12,9 @@ gk_example = () => {
 }
 
 gk_example();
+
+cli_example = () => {
+    return "Pulling from git-pull to main branch"
+}
+
+cli_example();
