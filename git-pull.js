@@ -19,3 +19,9 @@ gk_example = () => {
 
 gk_example();
 
+gk_example_2 = () => {
+    return "Mock function for GK example"
+}
+
+gk_example_2(); 
+
