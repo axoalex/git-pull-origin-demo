@@ -7,3 +7,8 @@ pullText = () => {
 
 pullText(); 
 
+gk_example = () => {
+    return "Making a mock function to pull to our main branch"
+}
+
+gk_example();
