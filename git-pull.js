@@ -7,14 +7,15 @@ pullText = () => {
 
 pullText(); 
 
+cli_example = () => {
+    return "Pulling from git-pull to main branch"
+}
+
+cli_example();
+
 gk_example = () => {
     return "Making a mock function to pull to our main branch"
 }
 
 gk_example();
 
-cli_example = () => {
-    return "Pulling from git-pull to main branch"
-}
-
-cli_example();
